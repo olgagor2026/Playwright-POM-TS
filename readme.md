@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Quick start
+## 🚀 Quick starterd
 
 ```bash
 # 1 Clone & install
